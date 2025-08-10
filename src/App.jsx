@@ -5,7 +5,9 @@ import About from './Pages/About';
 import Contact from './Pages/Contact';
 import Landing from './Pages/Landing';
 import Home from './Pages/Home';
-import Post from './Components/Post';
+import Learnet from './Pages/Learnet'
+import BookWorm from './Pages/BookWorm'
+import UniHelp from './Pages/UniHelp'
 
 function App() {
 
@@ -35,7 +37,9 @@ const AppWrapper = () => {
         <Route path='/about' element={<About />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='/home' element={<Home />} />
-        <Route path='/home/learnet' element={<Post />} />
+        <Route path='/home/learnet' element={<Learnet />} />
+        <Route path='/home/bookworm' element={<BookWorm />} />
+        <Route path='/home/unihelp' element={<UniHelp />} />
 
       </Routes>
     </>
