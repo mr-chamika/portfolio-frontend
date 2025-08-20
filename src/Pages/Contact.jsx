@@ -48,7 +48,7 @@ const Contact = () => {
 
             }
 
-            emailjs.send('service_i1aiqin', 'template_q9u99ms', emailTemplate, 'tzsqjrLjyvNx4hd00')
+            emailjs.send('service_i1aiqin', 'template_q9u99ms', emailTemplate, 'Yec_iAk1ts2gSV3gU')
 
             alert('Email successfully sent')
             goto('/home')

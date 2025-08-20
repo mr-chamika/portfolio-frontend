@@ -14,12 +14,12 @@ const About = () => {
 
             <div class=' hidden gap-10 items-center w-[40%]  lg:text-9xl text-5xl font-bold sm:flex flex-col pl-5'>
 
-                <h1 class='text-blue-400 italic lg:pr-40' >About</h1>
-                <h1 class='text-blue-400 italic lg:pl-70' >Me</h1>
+                <h1 class='text-blue-800 italic lg:pr-40' >About</h1>
+                <h1 class='text-blue-800 italic lg:pl-70' >Me</h1>
 
             </div>
 
-            <div class='sm:border-l-8 rounded-bl-lg rounded-t-lg border-indigo-500 rounde min-w-[60%] flex flex-col gap-5 px-6 pb-5'>
+            <div class='sm:border-l-8 rounded-bl-lg rounded-t-lg border-indigo-600 rounde min-w-[60%] flex flex-col gap-5 px-6 pb-5'>
 
                 <div class="flex justify-end">
                     <div onClick={() => setShow(true)} class="bg-black text-white px-3 py-1 rounded-lg hover:opacity-70 hover:cursor-pointer">
