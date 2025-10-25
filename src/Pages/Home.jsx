@@ -65,11 +65,8 @@ const Home = () => {
 
                         This project focuses on developing a secure and user-friendly Role-Based eCommerce Admin Dashboard for
                         managing backend operations of an online store. It includes features such as authentication,
-                        role-based access control, and customizable pages to provide administrators with efficient control over users,
-                        products, and orders.The system ensures that each user role has appropriate permissions,
-                        maintaining data security and operational efficiency. It also supports flexible dashboard customization and
-                        clear data visualization, helping administrators monitor and manage the eCommerce platform effectively.
-                        <a class='text-blue-600' href='/home/ecommerce'>Visit Project (React + Node + Sequalize + Postgresql + JWT authentication)</a>
+                        role-based access control, and customizable pages to manage ecommerce platform.
+                        <a class='text-blue-600' href='/home/ecommerce'>Visit Project (React + Node + Sequalize + Postgresql + JWT authentication + Adminjs)</a>
 
                     </p>
 
