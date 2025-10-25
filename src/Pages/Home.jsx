@@ -1,6 +1,7 @@
 import pic1 from '../assets/Home/Learnet Logo.png'
 import pic2 from '../assets/Home/Bookworm Logo.png';
 import pic3 from '../assets/Home/Unihelp/logo.png'
+import pic4 from '../assets/Home/Adminjs Logo.png';
 
 const Home = () => {
 
@@ -14,7 +15,7 @@ const Home = () => {
 
                 <div class='shadow-[1px_1px_9px] shadow-gray-300 mx-5 rounded-2xl pb-15 w-[90%]'>
                     <img src={pic1} width='750px' height='250px' class='mx-auto' />
-                    <p class='w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
+                    <p class='text-justify w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
 
                         Learnet is an educational platform developed during our
                         second year at university. We used <i class='text-blue-300'>HTML</i> to build
@@ -31,7 +32,7 @@ const Home = () => {
 
                 <div class='shadow-[1px_1px_9px] shadow-gray-300 mx-5 rounded-2xl pb-15 w-[90%]'>
                     <img src={pic2} width='600px' class='mx-auto my-5' />
-                    <p class='w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
+                    <p class='text-justify w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
 
                         BookWorm is a library management system developed during our
                         second year at university. We used <i class='text-blue-300'>React</i> to build
@@ -45,13 +46,30 @@ const Home = () => {
 
                 <div class='shadow-[1px_1px_9px] shadow-gray-300 mx-5 rounded-2xl pb-15 w-[90%]'>
                     <img src={pic3} width='300px' class='mx-auto my-5' />
-                    <p class='w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
+                    <p class='text-justify w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
 
                         UniHelp is a solely developed project by myself to manage my university life
                         . I used <i class='text-blue-300'>React</i> to build
                         User Interfaces. It can create schedules, calculate your gpa and also store some notes.
                         I created the signup, login system, user friendly dashboard, scientific and gpa calculator and a file
                         storage within the system.<a class='text-blue-600' href='/home/unihelp'>Visit Project (React + Node)</a>
+
+                    </p>
+
+                </div>
+
+
+                <div class='shadow-[1px_1px_9px] shadow-gray-300 mx-5 rounded-2xl pb-15 w-[90%]'>
+                    <img src={pic4} width='300px' class='mx-auto my-5' />
+                    <p class='text-justify w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
+
+                        This project focuses on developing a secure and user-friendly Role-Based eCommerce Admin Dashboard for
+                        managing backend operations of an online store. It includes features such as authentication,
+                        role-based access control, and customizable pages to provide administrators with efficient control over users,
+                        products, and orders.The system ensures that each user role has appropriate permissions,
+                        maintaining data security and operational efficiency. It also supports flexible dashboard customization and
+                        clear data visualization, helping administrators monitor and manage the eCommerce platform effectively.
+                        <a class='text-blue-600' href='/home/ecommerce'>Visit Project (React + Node + Sequalize + Postgresql + JWT authentication)</a>
 
                     </p>
 

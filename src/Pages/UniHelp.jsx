@@ -13,7 +13,7 @@ import pici8 from '../assets/Home/Unihelp/gcal.png'
 import pici9 from '../assets/Home/Unihelp/s1.png'
 import pici10 from '../assets/Home/Unihelp/logout.png'
 
-const Post = () => {
+const UniHelp = () => {
 
     return (
 
@@ -98,4 +98,4 @@ const Post = () => {
 
 }
 
-export default Post;
+export default UniHelp;
