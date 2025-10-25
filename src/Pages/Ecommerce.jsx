@@ -64,7 +64,7 @@ const Ecommerce = () => {
             <img src={pici8} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
 
             <ul class='flex sm:w-[40%] w-[25%] justify-center p-3 sm:gap-10 border-t-1 border-gray-200 sm:p-7'>
-                <li><a href='https://github.com/mr-chamika/UniHelp.git'><img class='w-13 hover:inset-shadow-sm hover:inset-shadow-gray-400 rounded-[100%] hover: p-1 transition delay-200 ease-in' src={git} /></a></li>
+                <li><a href='https://github.com/mr-chamika/AdminJsAssignment.git'><img class='w-13 hover:inset-shadow-sm hover:inset-shadow-gray-400 rounded-[100%] hover: p-1 transition delay-200 ease-in' src={git} /></a></li>
                 <li><a href='https://web.facebook.com/last.hista'><img class='w-13 hover:inset-shadow-sm hover:inset-shadow-gray-400 rounded-[100%] hover: p-1 transition delay-200 ease-in' src={fb} /></a></li>
                 <li><a href='https://www.linkedin.com/in/hasith-wijesinghe-3394062a2'><img class='w-13 hover:inset-shadow-sm hover:inset-shadow-gray-400 rounded-[100%] hover: p-1 transition delay-200 ease-in' src={linkedin} /></a></li>
             </ul>
