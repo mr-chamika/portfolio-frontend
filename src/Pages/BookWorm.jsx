@@ -16,7 +16,7 @@ const Post = () => {
 
         <div class='flex flex-col gap-20 items-center py-10 w-full'>
 
-            <p class='w-[80%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[80%] sm:text-2xl text-sm'>
 
                 Bookworm is a library management
                 system designed to streamline the administration
@@ -38,7 +38,7 @@ const Post = () => {
             </p>
 
             <img src={pic1} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 Above is the Catalog in our system.
                 And admin can view the information about
@@ -47,7 +47,7 @@ const Post = () => {
             </p>
 
             <img src={pic2} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 Above is the Books section in our system.
                 And admin can edit the information
@@ -65,7 +65,7 @@ const Post = () => {
             </div>
 
             <img src={pic6} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 This is the user management section in our system.
                 And admin can edit, view the information

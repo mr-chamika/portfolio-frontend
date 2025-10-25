@@ -14,7 +14,7 @@ const Post = () => {
 
         <div class='flex flex-col gap-20 items-center py-10 w-full'>
 
-            <p class='w-[80%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[80%] sm:text-2xl text-sm'>
 
                 Learnet is an educational platform we developed during
                 our second year at university, designed to facilitate
@@ -36,7 +36,7 @@ const Post = () => {
             </p>
 
             <img src={pici1} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 Above is the forum we created in our system.
                 And these are the questions posted by the users
@@ -46,7 +46,7 @@ const Post = () => {
 
             <img src={pici2} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
 
-            <p class='w-[75%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[75%] sm:text-2xl text-sm'>
 
                 Above is the view we created in our system
                 to questions display which are created

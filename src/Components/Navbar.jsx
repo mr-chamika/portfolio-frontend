@@ -3,7 +3,7 @@ import Logo from '../assets/Navbar/logos.png';
 const Navbar = () => {
 
     return (
-        <div class='sm:w-full w-full bg-blue-50 flex items-center justify-between pr-3' >
+        <div class='fixed top-0 left-0 sm:w-full w-full bg-blue-50 flex items-center justify-between pr-3' >
             <a href='/'><img src={Logo} width='70px' class='bg-none' /></a>
 
             <nav className="flex gap-2 justify-end p-2 rounded-lg">

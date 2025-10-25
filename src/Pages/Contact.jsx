@@ -59,7 +59,7 @@ const Contact = () => {
 
     return (
 
-        <div class='w-full items-center flex sm:flex-row flex-col sm:h-[90%] h-[50%] sm:mt-10 pt-5'>
+        <div class='w-full items-center flex sm:flex-row flex-col sm:h-[90%] h-[50%] sm:mt-10 pt-15'>
             <title>Contact Me</title>
             <div class='sm:w-[50%] w-full flex justify-start items-center sm:py-10 py-5 pl-5 sm:pl-30 sm:border-r-6 border-gray-300'>
 

@@ -17,7 +17,7 @@ const Ecommerce = () => {
 
         <div class='flex flex-col gap-20 items-center py-10 w-full'>
 
-            <p class='w-[80%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[80%] sm:text-2xl text-sm'>
 
                 This project focuses on secure and user-friendly Role-Based eCommerce Admin Dashboard for
                 managing backend operations of an online store. It includes features such as authentication,
@@ -29,14 +29,14 @@ const Ecommerce = () => {
             </p>
 
             <img src={pici1} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 Above is the login from i have created.
 
             </p>
 
             <img src={pici3} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 The Admin Dashboard provides a secure interface for administrators to manage the eCommerce platform. Admins can view system summaries like total users, products, orders, and categories. They have full control over resources adding, editing, or deleting users, products, categories, orders, order items, and settings. Access is role-based, ensuring that only admins can perform sensitive actions.
 
@@ -52,7 +52,7 @@ const Ecommerce = () => {
 
             <img src={pici5} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
 
-            <p class='w-[75%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[75%] sm:text-2xl text-sm'>
 
                 Below View is the user dashboard
                 Regular users can log in and access a limited dashboard that shows their personal info, recent orders, products, and categories.

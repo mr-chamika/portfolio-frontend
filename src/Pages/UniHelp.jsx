@@ -19,7 +19,7 @@ const UniHelp = () => {
 
         <div class='flex flex-col gap-20 items-center py-10 w-full'>
 
-            <p class='w-[80%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[80%] sm:text-2xl text-sm'>
 
                 UniHelp is a comprehensive, all-in-one application I developed to simplify university life for individual students.
 
@@ -32,21 +32,21 @@ const UniHelp = () => {
             </p>
 
             <img src={pici1} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 Above is the signup from i have created.
 
             </p>
 
             <img src={pici2} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 Above is the login from i have created.
 
             </p>
 
             <img src={pici3} class='w-[75%] shadow-2xl shadow-gray-300 border-[100%] p-5' />
-            <p class='w-[75%] sm:text-2xl text-sm' >
+            <p class='text-justify w-[75%] sm:text-2xl text-sm' >
 
                 This is the dashboard i have implemented and it shows the schedule of the relevant day,
                 and upcomming events.
@@ -55,7 +55,7 @@ const UniHelp = () => {
 
             <img src={pici4} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
 
-            <p class='w-[75%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[75%] sm:text-2xl text-sm'>
 
                 Above is the schedule created in the system
                 to schedule the events students have . Also
@@ -66,7 +66,7 @@ const UniHelp = () => {
             <img src={pici5} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
             <img src={pici6} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
 
-            <p class='w-[75%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[75%] sm:text-2xl text-sm'>
 
                 Below one is the scientific calculator i created and next one is GPA calculator
 
@@ -75,7 +75,7 @@ const UniHelp = () => {
             <img src={pici7} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
             <img src={pici8} class='w-[75%]  shadow-2xl shadow-gray-300 border-[100%] p-5' />
 
-            <p class='w-[75%] sm:text-2xl text-sm'>
+            <p class='text-justify w-[75%] sm:text-2xl text-sm'>
 
                 As you can see, below one is the storage i have created to store files and folders
                 for save notes and other files(pdf,images). Also you can upload and create files

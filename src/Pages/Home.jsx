@@ -9,7 +9,7 @@ const Home = () => {
         <>
             <title>Home</title>
 
-            <h1 class='flex w-[90%] mx-auto text-3xl sm:text-6xl mt-5 font-[Montserrat]'>My Projects</h1>
+            <h1 class='flex w-[90%] mx-auto text-3xl sm:text-6xl mt-20 font-[Montserrat]'>My Projects</h1>
             <div class='flex flex-col gap-30 items-center pt-10 pb-20 w-full'>
 
 

@@ -9,7 +9,7 @@ const About = () => {
 
     return (
 
-        <div class='flex w-full justify-center items-center mt-6 gap-5'>
+        <div class='flex w-full justify-center items-center mt-20 gap-5'>
             <title>About</title>
 
             <div class=' hidden gap-10 items-center w-[40%]  lg:text-9xl text-5xl font-bold sm:flex flex-col pl-5'>
@@ -34,7 +34,7 @@ const About = () => {
                         <h1 class='lg:text-2xl text-3sm'>Undergraduate at UCSC | Computer Science</h1>
                     </div>
                 </div>
-                <p class='w-[91%] flex text-green-700'>
+                <p class='text-justify w-[91%] flex text-green-700'>
 
                     Passionate full-stack developer with a
                     strong foundation in web development
