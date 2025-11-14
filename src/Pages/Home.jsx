@@ -72,6 +72,24 @@ const Home = () => {
 
                 </div>
 
+                <div class='shadow-[1px_1px_9px] shadow-gray-300 mx-5 rounded-2xl pb-15 w-[90%]'>
+
+                    <img alt="MiniHire Logo" width='300px' class='mx-auto my-15 px-20' />
+
+                    <p class='text-justify w-[90%] sm:w-[85%] mx-auto sm:text-2xl text-sm'>
+
+                        This is a project that i created a online platform for meet
+                        Internship seekers and Internship offering companies of the
+                        IT field. <em className='text-red-400'>And i am still working on this project. Also i have deployed current system on vercel.com. Try below links ... </em>
+                        <br></br>
+                        <a class='text-blue-600' href='https://mini-hire-git-main-chamikas-projects-44420091.vercel.app?_vercel_share=yiAMKj0tcTKVdkQX6uazOfHuLMITF5ek'>Visit Project (Next.js + MongoDB + JWT authentication)</a>
+                        <br></br>
+                        <a class='text-blue-600' href='https://github.com/mr-chamika/MiniHire.git'>Visit Project in GitHub</a>
+
+                    </p>
+
+                </div>
+
             </div>
         </>
     );
